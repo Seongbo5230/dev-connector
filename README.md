@@ -1,3 +1,9 @@
+Components to this web app:
+1. Backend - MongoDB
+2. API Endpoints
+3. Frontend - React
+4. Using nodejs
+
 experience stuff doesnt work
 
 profile deletion doesnt work
